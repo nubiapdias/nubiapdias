@@ -18,7 +18,7 @@
   <img align="center" alt="Bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="right" alt="bia-pic" height="150" style="border-radius:50px;"  <img align="right" alt="bia-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/friends-joey-chandler-pointing-gif-11150572">
+   <img align="right" alt="bia-pic" height="150" style="border-radius:50px;"  <img align="right" alt="bia-pic" height="150" style="border-radius:50px;" src="https://media1.tenor.com/images/645c1bd2403f2bfbf5cd81bc764ef312/tenor.gif?itemid=15905938">
 </div>
   </center>
 </div>
