@@ -48,6 +48,15 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{nubiapdias}/count.svg" /></p> 
 <br></div>
   
+### Hi! 👋Here are some facts you may want to know about me :)
+### Oi! Aqui estão algumas informações que talvez você queira saber sobre mim :)
+
+- 🌱 I studied at Blue Edtech, attending the fullstack course. You can take a look at projects on my portfolio!
+- 🌱 Eu estudei na Blue Edtech, cursando fullstack. Você pode dar uma olhada nos projetos no meu portfólio! 
+- 😄 Pronouns: she/her
+- 😄 Pronomes: ela/dela
+- ⚡ Fun fact: Você pode me chamar de bia! / You can call me Bia!
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c72cb&height=120&section=footer"/>
 
   ![Snake animation](https://github.com/nubiapdias/nubiapdias/blob/output/github-contribution-grid-snake.svg)
