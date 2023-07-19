@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6f9192&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bia+Dias;I'm+20+years+old;I+from+SP,+Brazil;I'm+a+FullStack+Developer+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nubiapdias&show_icons=true&count_private=true&hide_border=true&title_color=6f9192&icon_color=fedd9f&text_color=291c26&bg_color=6f9192" alt="Bia Dias github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nubiapdias&show_icons=true&count_private=true&hide_border=true&title_color=6f9192&icon_color=6f9192&text_color=fedd9f&bg_color=0000" alt="Bia Dias github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubiapdias&layout=compact&hide_border=true&title_color=6c72cb&text_color=6c72cb&bg_color=0d1117" />
 </div>
 
