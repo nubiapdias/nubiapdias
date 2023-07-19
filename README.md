@@ -61,11 +61,11 @@ Vamos discutir como posso contribuir para sua equipe e trazer meu entusiasmo pel
 Looking forward to sharing my journey with you and making a positive impact through technology! 🌟
 Estou ansiosa para compartilhar minha jornada com você e fazer um impacto positivo através da tecnologia! 🌟
 
-    <center>
+<center>
 <div style="display: inline_block"><br>
    <img align="right" alt="bia-pic" height="150" style="border-radius:50px;"  <img align="right" alt="bia-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVtNzBuczBrMXZnNHp2N3k5OXRkZHhhdDEzb2o0eWRvenoyeWhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif">
 </div>
-  </center>
+</center>
 
   
 
