@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84b4c6&height=180&section=header&text=Bia%20Dias%20&fontSize=30&fontColor=fedd9f&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84b4c6&height=180&section=header&text=Bia%20Dias%20&fontSize=30&fontColor=6f9192&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6f9192&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bia+Dias;I'm+20+years+old;I+from+SP,+Brazil;I'm+a+FullStack+Developer+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nubiapdias&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nubiapdias&show_icons=true&count_private=true&hide_border=true&title_color=fedd9f&icon_color=84b4c6&text_color=fedd9f&bg_color=6f9192&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
