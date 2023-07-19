@@ -42,20 +42,15 @@
   
 
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nubiapdias}/count.svg" /></p> 
-<br></div>
-  
-<div style="display: flex; align-items: center;">
-  <div style="width: 40%;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: center;">
+  <div>
     <ul>
       <li><strong>🌱</strong> I studied at Blue Edtech</li>
       <li><strong>😄</strong> Pronouns: she/her</li>
       <li><strong>⚡</strong> Fun fact: You can call me Bia!</li>
     </ul>
   </div>
-  <div style="width: 40%;">
+  <div>
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVtNzBuczBrMXZnNHp2N3k5OXRkZHhhdDEzb2o0eWRvenoyeWhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif" alt="GIF" width="100" height="100"/>
   </div>
 </div>
