@@ -43,18 +43,20 @@
 
 
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 31%); gap: 10px;">
-  <div>
-    <ul style="width: 100%; height: 195px;">
+<div align="center">
+  <div style="float: left; width: 41%; height: 195px;">
+    <ul style="width: 100%; height: 100%;">
       <li><strong>🌱</strong> I studied at Blue Edtech</li>
       <li><strong>😄</strong> Pronouns: she/her</li>
       <li><strong>⚡</strong> Fun fact: You can call me Bia!</li>
     </ul>
   </div>
-  <div>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVtNzBuczBrMXZnNHp2N3k5OXRkZHhhdDEzb2o0eWRvenoyeWhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif" alt="GIF" style="width: 100%; height: 195px;" />
+  <div style="float: left; width: 41%; height: 195px;">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVtNzBuczBrMXZnNHp2N3k5OXRkZHhhdDEzb2o0eWRvenoyeWhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif" alt="GIF" style="width: 100%; height: 100%;" />
   </div>
-</div>
+  <div style="clear: both;"></div>
+</div
+
 
   
 
