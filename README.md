@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nubiapdias&show_icons=true&count_private=true&hide_border=true&title_color=fedd9f&icon_color=84b4c6&text_color=fedd9f&bg_color=6f9192" alt="Bia Dias github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubiapdias&layout=compact&hide_border=true&title_color=6c72cb&text_color=6c72cb&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubiapdias&layout=compact&hide_border=true&title_color=fedd9f&text_color=fedd9f&bg_color=6f9192" />
 </div>
 
 
