@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Bia%20Dias%20&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f9192&height=180&section=header&text=Bia%20Dias%20&fontSize=30&fontColor=fedd9f&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bia+Dias;I'm+20+years+old;I+from+SP,+Brazil;I'm+a+FullStack+Developer+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fedd9f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bia+Dias;I'm+20+years+old;I+from+SP,+Brazil;I'm+a+FullStack+Developer+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nubiapdias&show_icons=true&count_private=true&hide_border=true&title_color=6c72cb&icon_color=6c72cb&text_color=c9d1d9&bg_color=0d1117" alt="Bia Dias github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nubiapdias&show_icons=true&count_private=true&hide_border=true&title_color=6f9192&icon_color=fedd9f&text_color=291c26&bg_color=6f9192" alt="Bia Dias github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubiapdias&layout=compact&hide_border=true&title_color=6c72cb&text_color=6c72cb&bg_color=0d1117" />
 </div>
 
