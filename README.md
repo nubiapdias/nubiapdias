@@ -44,13 +44,18 @@
 
 
 <div align="center">  
- <ul width="41%" height="195px">
+  <div style="display: inline-block; vertical-align: top; width: 41%; height: 195px;">
+    <ul>
       <li><strong>🌱</strong> I studied at Blue Edtech</li>
       <li><strong>😄</strong> Pronouns: she/her</li>
       <li><strong>⚡</strong> Fun fact: You can call me Bia!</li>
     </ul>
-  <img width="41%" height="195px" <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVtNzBuczBrMXZnNHp2N3k5OXRkZHhhdDEzb2o0eWRvenoyeWhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif" alt="GIF" />
+  </div>
+  <div style="display: inline-block; vertical-align: top; width: 41%; height: 195px;">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVtNzBuczBrMXZnNHp2N3k5OXRkZHhhdDEzb2o0eWRvenoyeWhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif" alt="GIF" style="width: 100%; height: 195px;" />
+  </div>
 </div>
+
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84b4c6&height=120&section=footer"/>
