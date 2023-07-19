@@ -54,7 +54,7 @@ Olá! 👋
 📚 Dê uma olhada no meu GitHub para explorar meus projetos empolgantes e acompanhar minha trajetória como desenvolvedora fullstack.
 
 
-Let's connect and discuss how I can contribute to your team and bring my enthusiasm for coding to create amazing software solutions! Feel free to reach out at <a href="[mailto:biadias20021114@gmail.com?subject=&body=]">Your Email Address</a> or <a href="[https://www.linkedin.com/in/dev-nubia-dias/]">My LinkedIn Profile</a>, where we can connect further.
+Let's connect and discuss how I can contribute to your team and bring my enthusiasm for coding to create amazing software solutions! Feel free to reach out at <a href="mailto:biadias20021114@gmail.com?subject=&body=">Email</a> or <a href="https://www.linkedin.com/in/dev-nubia-dias/">My LinkedIn Profile</a>, where we can connect further.
 
 Vamos discutir como posso contribuir para sua equipe e trazer meu entusiasmo pela programação para criar soluções incríveis! Fique à vontade para entrar em contato através do meu <a href="mailto:biadias20021114@gmail.com?subject=&body=">E-mail</a> ou do meu perfil no <a href="https://www.linkedin.com/in/dev-nubia-dias/">LinkedIn</a>.
 
