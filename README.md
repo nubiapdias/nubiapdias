@@ -43,8 +43,8 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-6f9192?style=for-the-badge&logo=node.js&labelColor=6f9192&textColor=fedd9f)&nbsp;
   
 
-Hello there! 👋
-Olá! 👋
+### Hello there! 👋
+### Olá! 👋
 
 - 😄 Pronouns: She/Her (Ela/Dela)
 - 😄 Pronomes: Ela/Dela
