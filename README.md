@@ -46,22 +46,22 @@
 Hello there! 👋
 Olá! 👋
 
-😄 Pronouns: She/Her (Ela/Dela)
-😄 Pronomes: Ela/Dela
+- 😄 Pronouns: She/Her (Ela/Dela)
+- 😄 Pronomes: Ela/Dela
 
-⚡  You can call me Bia! 😉
-⚡  Você pode me chamar de Bia! 😉
+- ⚡  You can call me Bia! 😉
+- ⚡  Você pode me chamar de Bia! 😉
 
-📚 Take a look at my GitHub to explore my exciting projects and see my journey as a passionate fullstack developer
-📚 Dê uma olhada no meu GitHub para explorar meus projetos empolgantes e acompanhar minha trajetória como desenvolvedora fullstack.
+- 📚 Take a look at my GitHub to explore my exciting projects and see my journey as a passionate fullstack developer
+- 📚 Dê uma olhada no meu GitHub para explorar meus projetos empolgantes e acompanhar minha trajetória como desenvolvedora fullstack.
 
 
-Let's connect and discuss how I can contribute to your team and bring my enthusiasm for coding to create amazing software solutions! Feel free to reach out at <a href="mailto:biadias20021114@gmail.com?subject=&body=">Email</a> or <a href="https://www.linkedin.com/in/dev-nubia-dias/">My LinkedIn Profile</a>, where we can connect further.
+- Let's connect and discuss how I can contribute to your team and bring my enthusiasm for coding to create amazing software solutions! Feel free to reach out at <a href="mailto:biadias20021114@gmail.com?subject=&body=">Email</a> or <a href="https://www.linkedin.com/in/dev-nubia-dias/">My LinkedIn Profile</a>, where we can connect further.
 
-Vamos discutir como posso contribuir para sua equipe e trazer meu entusiasmo pela programação para criar soluções incríveis! Fique à vontade para entrar em contato através do meu <a href="mailto:biadias20021114@gmail.com?subject=&body=">E-mail</a> ou do meu perfil no <a href="https://www.linkedin.com/in/dev-nubia-dias/">LinkedIn</a>.
+- Vamos discutir como posso contribuir para sua equipe e trazer meu entusiasmo pela programação para criar soluções incríveis! Fique à vontade para entrar em contato através do meu <a href="mailto:biadias20021114@gmail.com?subject=&body=">E-mail</a> ou do meu perfil no <a href="https://www.linkedin.com/in/dev-nubia-dias/">LinkedIn</a>.
 
-Looking forward to sharing my journey with you and making a positive impact through technology! 🌟
-Estou ansiosa para compartilhar minha jornada com você e fazer um impacto positivo através da tecnologia! 🌟
+- Looking forward to sharing my journey with you and making a positive impact through technology! 🌟
+- Estou ansiosa para compartilhar minha jornada com você e fazer um impacto positivo através da tecnologia! 🌟
 
 <center>
 <div style="display: inline_block"><br>
