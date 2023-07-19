@@ -41,13 +41,25 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-84b4c6?style=for-the-badge&logo=node.js&labelColor=84b4c6&textColor=fedd9f)&nbsp;
   
 
-### Hey! 👋 
+Hello there! 👋
+Olá! 👋
 
-- 🌱 I’m currently studying at Blue Edtech, attending the fullstack course. I'm learning Node.js!
-- 🌱 Atualmente estou estudando na Blue Edtech, cursando fullstack. Estou aprendendo Node.js no momento! 
-- 😄 Pronouns: she/her
-- 😄 Pronomes: ela/dela
-- ⚡ Fun fact: Você pode me chamar de bia! / You can call me Bia!
+😄 Pronouns: She/Her (Ela/Dela)
+😄 Pronomes: Ela/Dela
+
+⚡  You can call me Bia! 😉
+⚡  Você pode me chamar de Bia! 😉
+
+📚 Take a look at my GitHub to explore my exciting projects and see my journey as a passionate fullstack developer
+📚 Dê uma olhada no meu GitHub para explorar meus projetos empolgantes e acompanhar minha trajetória como desenvolvedora fullstack.
+
+
+Let's connect and discuss how I can contribute to your team and bring my enthusiasm for coding to create amazing software solutions! Feel free to reach out at <a href="[mailto:biadias20021114@gmail.com?subject=&body=]">Your Email Address</a> or <a href="[https://www.linkedin.com/in/dev-nubia-dias/]">My LinkedIn Profile</a>, where we can connect further.
+
+Vamos discutir como posso contribuir para sua equipe e trazer meu entusiasmo pela programação para criar soluções incríveis! Fique à vontade para entrar em contato através do meu <a href="mailto:biadias20021114@gmail.com?subject=&body=">e-mail</a> ou do meu perfil no<a href="https://www.linkedin.com/in/dev-nubia-dias/">LinkedIn</a>.
+
+Looking forward to sharing my journey with you and making a positive impact through technology! 🌟
+Estou ansiosa para compartilhar minha jornada com você e fazer um impacto positivo através da tecnologia! 🌟
 
     <center>
 <div style="display: inline_block"><br>
