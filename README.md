@@ -9,11 +9,11 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nubiapdias&show_icons=true&count_private=true&hide_border=true&title_color=fedd9f&icon_color=84b4c6&text_color=fedd9f&bg_color=6f9192&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nubiapdias&show_icons=true&count_private=true&hide_border=true&title_color=fedd9f&icon_color=84b4c6&text_color=fedd9f&text_color=fedd9f&bg_color=6f9192&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/spideyzpool/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/unicornmish/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/dev-nubia-dias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
