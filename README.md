@@ -48,16 +48,23 @@
 <br></div>
   
 ### Oi! 👋 Aqui estão algumas informações que talvez você queira saber sobre mim :)
+### Hey! 👋 Here is some information you might want to know about me :)
 
-- 🌱 I studied at Blue Edtech, attending the fullstack course. You can take a look at projects on my portfolio!
-- 🌱 Eu estudei na Blue Edtech, cursando fullstack. Você pode dar uma olhada nos projetos no meu portfólio!
-- 😄 Pronouns: she/her
-- 😄 Pronomes: ela/dela
-- ⚡ Fun fact: Você pode me chamar de Bia! / You can call me Bia!
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <ul>
+      <li>🌱 I studied at Blue Edtech, attending the fullstack course. You can take a look at projects on my portfolio!</li>
+      <li>🌱 Eu estudei na Blue Edtech, cursando fullstack. Você pode dar uma olhada nos projetos no meu portfólio!</li>
+      <li>😄 Pronouns: she/her</li>
+      <li>😄 Pronomes: ela/dela</li>
+      <li>⚡ Fun fact: Você pode me chamar de Bia! / You can call me Bia!</li>
+    </ul>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVtNzBuczBrMXZnNHp2N3k5OXRkZHhhdDEzb2o0eWRvenoyeWhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif" alt="GIF" width="300" height="300" />
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVtNzBuczBrMXZnNHp2N3k5OXRkZHhhdDEzb2o0eWRvenoyeWhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif" alt="GIF" width="300" height="300" />
-</p>
 
 
   
