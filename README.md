@@ -47,16 +47,18 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{nubiapdias}/count.svg" /></p> 
 <br></div>
   
-### Hi! 👋Here are some facts you may want to know about me :)
-### Oi! Aqui estão algumas informações que talvez você queira saber sobre mim :)
+### Oi! 👋 Aqui estão algumas informações que talvez você queira saber sobre mim :)
 
 - 🌱 I studied at Blue Edtech, attending the fullstack course. You can take a look at projects on my portfolio!
-- 🌱 Eu estudei na Blue Edtech, cursando fullstack. Você pode dar uma olhada nos projetos no meu portfólio! 
+- 🌱 Eu estudei na Blue Edtech, cursando fullstack. Você pode dar uma olhada nos projetos no meu portfólio!
 - 😄 Pronouns: she/her
 - 😄 Pronomes: ela/dela
-- ⚡ Fun fact: Você pode me chamar de bia! / You can call me Bia!
+- ⚡ Fun fact: Você pode me chamar de Bia! / You can call me Bia!
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVtNzBuczBrMXZnNHp2N3k5OXRkZHhhdDEzb2o0eWRvenoyeWhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif"/>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVtNzBuczBrMXZnNHp2N3k5OXRkZHhhdDEzb2o0eWRvenoyeWhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif" alt="GIF" width="300" height="300" />
+</p>
+
 
   
 
