@@ -41,23 +41,22 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-84b4c6?style=for-the-badge&logo=node.js&labelColor=84b4c6&textColor=fedd9f)&nbsp;
   
 
+### Hey! 👋 
 
+- 🌱 I’m currently studying at Blue Edtech, attending the fullstack course. I'm learning Node.js!
+- 🌱 Atualmente estou estudando na Blue Edtech, cursando fullstack. Estou aprendendo Node.js no momento! 
+- 😄 Pronouns: she/her
+- 😄 Pronomes: ela/dela
+- ⚡ Fun fact: Você pode me chamar de bia! / You can call me Bia!
 
-<div align="center">
-  <div style="display: flex;">
-    <div style="flex: 1; width: 41%; height: 195px;">
-      <ul style="width: 100%; height: 100%;">
-        <li><strong>🌱</strong> I studied at Blue Edtech</li>
-        <li><strong>😄</strong> Pronouns: she/her</li>
-        <li><strong>⚡</strong> Fun fact: You can call me Bia!</li>
-      </ul>
-    </div>
-    <div style="flex: 1; width: 41%; height: 195px;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVtNzBuczBrMXZnNHp2N3k5OXRkZHhhdDEzb2o0eWRvenoyeWhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif" alt="GIF" style="width: 100%; height: 100%;" />
-    </div>
-  </div>
+    <center>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Bia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="right" alt="bia-pic" height="150" style="border-radius:50px;"  <img align="right" alt="bia-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVtNzBuczBrMXZnNHp2N3k5OXRkZHhhdDEzb2o0eWRvenoyeWhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif">
 </div>
-
+  </center>
 
   
 
