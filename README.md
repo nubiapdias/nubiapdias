@@ -51,16 +51,14 @@
 ### Hey! 👋 Here is some information you might want to know about me :)
 
 <div style="display: flex; align-items: center;">
-  <div style="width: "40%;"">
+  <div style="width: 40%;">
     <ul>
       <li><strong>🌱</strong> I studied at Blue Edtech, attending the fullstack course. You can take a look at projects on my portfolio!</li>
-      <li><strong>🌱</strong> Eu estudei na Blue Edtech, cursando fullstack. Você pode dar uma olhada nos projetos no meu portfólio!</li>
       <li><strong>😄</strong> Pronouns: she/her</li>
-      <li><strong>😄</strong> Pronomes: ela/dela</li>
-      <li><strong>⚡</strong> Fun fact: Você pode me chamar de Bia! / You can call me Bia!</li>
+      <li><strong>⚡</strong> Fun fact: You can call me Bia!</li>
     </ul>
   </div>
-  <div style="width: "40%;"">
+  <div style="width: 40%;">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVtNzBuczBrMXZnNHp2N3k5OXRkZHhhdDEzb2o0eWRvenoyeWhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif" alt="GIF" width="300" height="300" />
   </div>
 </div>
