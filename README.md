@@ -65,7 +65,7 @@
 
 <center>
 <div style="display: inline_block"><br>
-   <img align="right" alt="bia-pic" height="150" style="border-radius:50px;"  <img align="right" alt="bia-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVtNzBuczBrMXZnNHp2N3k5OXRkZHhhdDEzb2o0eWRvenoyeWhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif">
+   <img align="right" alt="bia-pic" height="150" style="border-radius:50px;"  <img align="right" alt="bia-pic" height="200" style="border-radius:50px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVtNzBuczBrMXZnNHp2N3k5OXRkZHhhdDEzb2o0eWRvenoyeWhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif">
 </div>
 </center>
 
