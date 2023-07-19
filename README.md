@@ -47,8 +47,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{nubiapdias}/count.svg" /></p> 
 <br></div>
   
-### Oi! 👋 Aqui estão algumas informações que talvez você queira saber sobre mim :)
-### Hey! 👋 Here is some information you might want to know about me :)
 
 <div style="display: flex; align-items: center;">
   <div style="width: 40;">
