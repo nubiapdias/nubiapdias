@@ -55,7 +55,7 @@
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVtNzBuczBrMXZnNHp2N3k5OXRkZHhhdDEzb2o0eWRvenoyeWhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif" alt="GIF" style="width: 100%; height: 100%;" />
   </div>
   <div style="clear: both;"></div>
-</div
+</div>
 
 
   
